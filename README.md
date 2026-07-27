@@ -4,7 +4,7 @@ This repository contains the files and analysis for our Data Analysis Final Proj
 
 ## Team Members (Team 1)
 
-* **Mahmoud Ahmed Mazhar** (TL)
+* **Mahmoud Ahmed Mazhar**
 * **Ziad Rabie Abdelghafar**
 * **Diaa Abdelnaby Elshahat**
 * **Roqia Talaat Abdellatef**
