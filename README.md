@@ -23,14 +23,25 @@ This repository contains the full workflow, dataset, and analysis for our Data A
 
 Here is a look at our final interactive dashboards:
 
-### 1. Retailer & Sales Analysis
-*(This dashboard focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
+### 1. Executive Overview
+*(Provides a high-level summary of total sales, profit, and overall company performance)*
+
+![Executive Overview](Executive%20Overview.png)
+
+### 2. Retailer & Sales Analysis
+*(Focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
 
 ![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png)
 
-### 2. Regional Performance
-*(This dashboard provides a geographical breakdown of sales across different regions and cities)*
+### 3. Regional Performance
+*(Provides a geographical breakdown of sales across different regions and cities)*
 
 ![Regional Dashboard](Regional%20Performance.png)
 
-*(Note: Download the `.pbix` file to interact with the full dashboard and apply filters)*s)*
+### 4. Product & Sales Analysis
+*(Highlights the performance of different Adidas apparel and footwear products)*
+
+![Product Dashboard](Product%20&%20Sales%20Analysis.png)
+
+---
+*(Note: Download the `.pbix` file to interact with the full dashboards and apply filters)*
