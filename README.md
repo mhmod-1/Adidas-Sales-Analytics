@@ -26,11 +26,11 @@ Here is a look at our final interactive dashboards:
 ### 1. Retailer & Sales Analysis
 *(This dashboard focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
 
-![Retailer Dashboard](Retailer_&_Sales_Analysis.png)
+![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png)
 
 ### 2. Regional Performance
 *(This dashboard provides a geographical breakdown of sales across different regions and cities)*
 
-![Regional Dashboard](Regional_Performance.png)
+![Regional Dashboard](Regional%20Performance.png)
 
-*(Note: Download the `.pbix` file to interact with the full dashboard and apply filters)*
+*(Note: Download the `.pbix` file to interact with the full dashboard and apply filters)*s)*
