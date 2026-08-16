@@ -28,20 +28,20 @@ Here is a look at our final interactive dashboards:
 
 ![Executive Overview](Executive%20Overview.png)
 
-### 2. Retailer & Sales Analysis
-*(Focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
-
-![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png)
-
-### 3. Regional Performance
+### 2. Regional Performance
 *(Provides a geographical breakdown of sales across different regions and cities)*
 
 ![Regional Dashboard](Regional%20Performance.png)
 
-### 4. Product & Sales Analysis
+### 3. Product & Sales Analysis
 *(Highlights the performance of different Adidas apparel and footwear products)*
 
 ![Product Dashboard](Product%20&%20Sales%20Analysis.png)
+
+### 4. Retailer & Sales Analysis
+*(Focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
+
+![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png)
 
 ---
 *(Note: Download the `.pbix` file to interact with the full dashboards and apply filters)*
