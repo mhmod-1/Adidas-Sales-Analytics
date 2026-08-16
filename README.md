@@ -41,7 +41,7 @@ Here is a look at our final interactive dashboards:
 ### 4. Retailer & Sales Analysis
 *(Focuses on retailer performance, answering SQL questions related to operating profit and units sold by sales method)*
 
-![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png)
+![Retailer Dashboard](Retailer%20&%20Sales%20Analysis.png?v=2)
 
 ---
 *(Note: Download the `.pbix` file to interact with the full dashboards and apply filters)*
