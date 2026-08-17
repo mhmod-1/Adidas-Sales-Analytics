@@ -6,7 +6,7 @@ This repository contains the full workflow, dataset, and analysis for our Data A
 * Mahmoud Ahmed Mazhar
 * Ziad Rabie Abdelghafar
 * Diaa Abdelnaby Elshahat
-* Roqia Talaat Abdellatef
+* Rokia Talaat Abdelatif
 
 ## 🛠️ Tools & Technologies Used
 * **Data Preprocessing & Cleaning:** Python / Excel
